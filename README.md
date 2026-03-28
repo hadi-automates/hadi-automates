@@ -1,5 +1,5 @@
 # Hey, I'm Abdul Hadi 👋
-### Social Media Designer × Automation Engineer
+### Automation Engineer  x  Social Media Designer
 
 > *"I don't just design visuals, I automate the systems behind them."*
 
