@@ -1,19 +1,19 @@
 # Hey, I'm Abdul Hadi 👋
 ### Social Media Designer × Automation Engineer
 
-> *"I don't just design visuals — I automate the systems behind them."*
+> *"I don't just design visuals, I automate the systems behind them."*
 
 ---
 
 ## 🧠 About Me
 
-I'm a **Social Media & LinkedIn Designer** expanding into **AI Automations** — currently working as an **Automation Engineer Intern** based in **Faisalabad, Pakistan**.
+I'm a **Social Media & LinkedIn Designer** expanding into **AI Automations**. Currently working as an **Automation Executive Engineer** based in **Faisalabad, Pakistan**.
 
-My professional identity sits at the intersection of **design systems** and **AI-powered workflow automation** — bridging creativity with technology to build future-proof solutions for founders, coaches, and businesses.
+My professional identity sits at the intersection of **Design systems** and **AI-powered workflow automation** — bridging creativity with technology to build future-proof solutions for founders, coaches, and businesses.
 
-- 🎨 **Designer** → LinkedIn revamps, carousels, brand visuals, Meta ads
 - ⚙️ **Automation Engineer** → n8n, Make.com, Zapier, GoHighLevel, Airtable
 - 📊 **Strategist** → Content systems, LinkedIn personal branding, workflow design
+- 🎨 **Designer** → LinkedIn revamps, carousels, brand visuals, Meta ads
 - 🎓 **BBA Finance Student** → University of Agriculture, Faisalabad (UAF)
 
 ---
@@ -42,43 +42,31 @@ My professional identity sits at the intersection of **design systems** and **AI
 ## 🚀 What I Build
 
 ```
-📌 LinkedIn Revamps         → Profile redesigns that attract leads & opportunities
-📌 Content Design Systems   → Branded carousel & post templates for LinkedIn/Instagram
 📌 AI Cold Outreach         → Automated email sequences via n8n with AI personalization
 📌 Client Onboarding Flows  → End-to-end automated onboarding pipelines
 📌 Invoice Automation       → Auto-generate & send branded invoices via workflows
 📌 HR Analytics Dashboards  → Data pipelines with automated reporting
 📌 Resume Generators        → AI-powered resume generation systems
-```
-
----
-
-## 📂 Featured Repositories
-
-| Repo | Description | Stack |
-|------|-------------|-------|
-| 🔄 `n8n-workflow-library` | Production-ready n8n workflow backups | n8n · JSON |
-| 📧 `cold-outreach-system` | AI-powered cold email automation for 3 brands | n8n · OpenAI |
-| 🎨 `linkedin-design-system` | LinkedIn carousel & post templates | HTML · CSS |
-| 📊 `automation-docs` | SOPs and documentation for client automations | Markdown |
+📌 LinkedIn Revamps         → Profile redesigns that attract leads & opportunities
+📌 Content Design Systems   → Branded carousel & post templates for LinkedIn/Instagram
 
 ---
 
 ## 📈 Current Focus
 
-- 🔥 Building **AI-powered cold outreach systems** for Emerald Green Media (EGM)
-- 📐 Growing my **LinkedIn personal brand** as an Automation Engineer
-- 🤖 Learning **GitHub Actions** to automate workflow deployments
+- 🔥 Building **AI-powered systems** for clients across multiple industries
 - 🧩 Creating reusable **automation templates** for founders & coaches
+- 🎨 Designing **scroll-stopping LinkedIn content** for businesses globally
 
 ---
 
 ## 🤝 Who I Work With
 
 I help **founders, CEOs, coaches, and managers** who want to:
-- ✅ Build a strong **LinkedIn presence** with scroll-stopping visuals
+
 - ✅ **Automate repetitive tasks** so they focus on what matters
 - ✅ Create **content systems** that run without them
+- ✅ Build a strong **LinkedIn presence** with scroll-stopping visuals
 
 ---
 
