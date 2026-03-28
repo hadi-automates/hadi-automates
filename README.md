@@ -49,6 +49,7 @@ My professional identity sits at the intersection of **Design systems** and **AI
 📌 Resume Generators        → AI-powered resume generation systems
 📌 LinkedIn Revamps         → Profile redesigns that attract leads & opportunities
 📌 Content Design Systems   → Branded carousel & post templates for LinkedIn/Instagram
+```
 
 ---
 
