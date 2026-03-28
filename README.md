@@ -80,7 +80,7 @@ I help **founders, CEOs, coaches, and managers** who want to:
 
 <div align="center">
 
-*"Automation isn't about replacing humans — it's about freeing them."*
+*"Automation isn't about replacing humans, it's about freeing them."*
 
 **⭐ Star a repo if something helped you!**
 
